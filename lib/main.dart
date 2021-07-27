@@ -64,7 +64,6 @@ class _MainPageState extends State<MainPage> {
                   radius: Radius.circular(5.0),
                   boxFit: BoxFit.cover,
                   dotSize: 4.0,
-                  
                   indicatorBgPadding: 6.0,
                   dotBgColor: Colors.transparent,
                   images: [
@@ -95,6 +94,7 @@ class _MainPageState extends State<MainPage> {
               SizedBox(
                 height: 40,
                 child: Text(
+                  
                   'Shijra Urdu',
                   textAlign: TextAlign.left,
                   style: TextStyle(
