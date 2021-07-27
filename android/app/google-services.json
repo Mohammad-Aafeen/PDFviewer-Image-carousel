@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397720502289",
+    "project_id": "example-1c210",
+    "storage_bucket": "example-1c210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397720502289:android:015a5449d6a19a92c031b0",
+        "android_client_info": {
+          "package_name": "com.styleandtalks.column"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397720502289-iostb7g89c79ruspkc7ku8runjqoa3e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXz2-R1S6mLA8UOGBVOcldYTzYQiVMYH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397720502289-iostb7g89c79ruspkc7ku8runjqoa3e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
